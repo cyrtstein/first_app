@@ -4,9 +4,9 @@ ruby '1.9.3'
 
 gem 'rails', '3.2.14'
 
-group :development, :test do
-    gem 'sqlite3', '1.3.5'
-end
+# group :development, :test do
+#    gem 'sqlite3', '1.3.5'
+# end
 
 # Gems used only for assets and not required
 # in production environments by default.
